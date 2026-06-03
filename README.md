@@ -33,7 +33,7 @@ This report contains three internship tasks completed as part of a Digital Marke
 
 `#CafeLife` `#CoffeeLovers` `#LocalBusiness` `#WorkCafe` `#Foodie` `#CoffeeTime` `#CafeVibes`
 ![image alt](https://github.com/armaanintern-tech/Learnova_task/blob/1a2385fddd0ffb906dc948bfd29126c72450ace7/WhatsApp%20Image%202026-06-01%20at%2012.41.20%20PM.jpeg)
-![image alt]()
+![image alt](https://github.com/armaanintern-tech/Learnova_task/blob/e76ade182f73ac06f88d4a8b09583ed1698b7227/WhatsApp%20Image%202026-06-01%20at%2012.41.36%20PM.jpeg)
 ### What I Learned
 
 I learned how to create a social media content plan, write engaging captions, use hashtags, and design simple creatives for Instagram and LinkedIn posts.
